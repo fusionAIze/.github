@@ -24,25 +24,9 @@ Most AI solutions remain chat interfaces, isolated automations, or experiments w
 
 ### What we do
 
-**fusionAIze Agency** — designs, implements, and supports AI-native systems, agent workflows, and human-AI fusion teams.
+We design, implement, and operate AI-native systems through our **Agency**, build AI collaboration skills through our **Academy**, and run managed enablement through our **Services** unit.
 
-**fusionAIze Academy** — enables teams, leaders, and operators for practical human-AI collaboration.
-
-**fusionAIze Services** — manages operations, support, optimization, and managed enablement.
-
----
-
-### Our Product Stack
-
-**fusionAIze Gate** — AI-native gateway for models, providers, tools, and clients
-
-**fusionAIze Lens** — Relevance, compression, explanation, and context-focusing layer
-
-**fusionAIze Fabric** — Shared context, memory, and knowledge fabric for distributed fusion teams
-
-**fusionAIze Grid** — Sovereign execution substrate for AI-native operations
-
-**fusionAIzeOS** — Operating logic for human-AI fusion teams
+Our product stack — **Gate**, **Lens**, **Fabric**, **Grid**, and **fusionAIzeOS** — connects model access, context intelligence, shared memory, sovereign execution, and team operating logic into one coherent environment.
 
 ---
 
@@ -60,13 +44,7 @@ We envision a future where humans and AI agents work seamlessly side by side —
 
 ### Core Values
 
-**Trust through Transparency** — We build confidence in AI by making its roles, functions, and limitations clear.
-
-**Human-Centered Collaboration** — People at the heart of every AI integration, amplified by AI's speed and intelligence.
-
-**Empowerment through Education** — Knowledge overcomes fear. We teach teams to embrace change and grow.
-
-**Innovation with Purpose** — Every AI integration creates measurable value and strengthens competitiveness.
+Trust through transparency. Human-centered collaboration. Empowerment through education. Innovation with purpose.
 
 ---
 
