@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://fusionaize.com">Website</a> · <a href="https://fusionaize.com/about-vision-mission-team/">Vision & Mission</a> · <a href="https://fusionaize.com/fusionaize-academy/">Academy</a>
+  <a href="https://fusionaize.com">Website</a> · <a href="https://fusionaize.com/about-vision-mission-team/">Vision & Mission</a>
 </p>
 
 ---
@@ -34,13 +34,15 @@ Most AI solutions remain chat interfaces, isolated automations, or experiments w
 
 ### Our Product Stack
 
-| Product | Purpose |
-|---|---|
-| **fusionAIze Gate** | AI-native gateway for models, providers, tools, and clients |
-| **fusionAIze Lens** | Relevance, compression, explanation, and context-focusing layer |
-| **fusionAIze Fabric** | Shared context, memory, and knowledge fabric for distributed fusion teams |
-| **fusionAIze Grid** | Sovereign execution substrate for AI-native operations |
-| **fusionAIzeOS** | Operating logic for human-AI fusion teams |
+**fusionAIze Gate** — AI-native gateway for models, providers, tools, and clients
+
+**fusionAIze Lens** — Relevance, compression, explanation, and context-focusing layer
+
+**fusionAIze Fabric** — Shared context, memory, and knowledge fabric for distributed fusion teams
+
+**fusionAIze Grid** — Sovereign execution substrate for AI-native operations
+
+**fusionAIzeOS** — Operating logic for human-AI fusion teams
 
 ---
 
